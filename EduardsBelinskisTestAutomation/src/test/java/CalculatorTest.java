@@ -8,7 +8,7 @@ public class CalculatorTest {
 
     Calculator calculator;
 
-    @BeforeTest
+    @BeforeMethod
 
     public void pirmsTesta(){
 
